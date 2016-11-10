@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_drawer_width">260dp</dimen>
+    <dimen name="rootelevation">5dp</dimen>
+    <dimen name="lvRow_height">81dp</dimen>
+    <dimen name="lvRow_marginBottom">2dp</dimen>
+    <dimen name="lvRow_marginLeft">5dp</dimen>
+    <dimen name="innerLayout_paddingBottom">5dp</dimen>
+    <dimen name="innerLayout_paddingLeft">10dp</dimen>
+    <dimen name="txtTitle_textSize">15dp</dimen>
+    <dimen name="txtDtype_textSize">9dp</dimen>
+    <dimen name="txtPrice_textSize">19dp</dimen>
+    <dimen name="linearLayout_height">35dp</dimen>
+    <dimen name="linearLayout_marginBottom">10dp</dimen>
+    <dimen name="txtCall_textSize">13dp</dimen>
+    <dimen name="elevation_list_row">2dp</dimen>
+    <dimen name="lstview_margin_top">5dp</dimen>
+</resources>
